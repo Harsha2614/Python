@@ -70,5 +70,12 @@ if __name__=='__main__':
      main()
 
 
+# Importing a file runs it
+
+# if __name__ == "__main__": prevents accidental execution
+
+# It’s essential once you move beyond single-file scripts
+
+#“This is the main guard. It ensures that code runs only when the file is executed directly and not when it is imported as a module.”
 
 
